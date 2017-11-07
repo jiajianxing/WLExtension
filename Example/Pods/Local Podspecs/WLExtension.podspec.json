@@ -1,0 +1,22 @@
+{
+  "name": "WLExtension",
+  "version": "0.1.0",
+  "summary": "A short description of WLExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jiajianxing/WLExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jiajianxing": "jiajianxinghh@163.com"
+  },
+  "source": {
+    "git": "https://github.com/jiajianxing/WLExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WLExtension/Classes/**/*"
+}

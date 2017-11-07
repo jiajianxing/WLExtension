@@ -1,0 +1,16 @@
+PODS:
+  - WLExtension (0.1.0)
+
+DEPENDENCIES:
+  - WLExtension (from `../`)
+
+EXTERNAL SOURCES:
+  WLExtension:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WLExtension: 9805b8f27dad1b2bffd98cc2b8bfe2f25793e834
+
+PODFILE CHECKSUM: 32ff9464d6de9bdf1af7add26bed7a8e46be3ab7
+
+COCOAPODS: 1.2.0

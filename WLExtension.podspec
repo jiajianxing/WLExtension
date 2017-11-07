@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'WLExtension'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of WLExtension.'
+  s.summary          = '对手势的扩展'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+对手势的扩展,block回调
                        DESC
 
   s.homepage         = 'https://github.com/jiajianxing/WLExtension'
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'WLExtension/Classes/**/*'
+  s.source_files = 'WLExtension/**'
   
   # s.resource_bundles = {
   #   'WLExtension' => ['WLExtension/Assets/*.png']
