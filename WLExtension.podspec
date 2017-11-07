@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 对手势的扩展,block回调
                        DESC
 
-  s.homepage         = '~/WLExtension'
+  s.homepage         = 'https://github.com/jiajianxing/WLExtension'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'jiajianxing' => 'jiajianxinghh@163.com' }
