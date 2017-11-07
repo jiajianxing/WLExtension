@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WLExtension_Example' do
+  pod 'WLExtension', :path => '../'
+
+  target 'WLExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
